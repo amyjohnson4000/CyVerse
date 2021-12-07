@@ -1,7 +1,6 @@
 # CyVerse
 CyVerse Coding Challenge
-
-CyVerse Coding Challenge
+Please note: this code is not a functioning service.  Below are the analysis steps I was able to take, with a few hours of work effort, and no prior experience with rest services, nats.io, or Kubernetes/Containerized services.
 
 Steps:
 1)	Read up on Nats.io and Kubernetes, learn about the overall system architecture.
