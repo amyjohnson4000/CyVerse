@@ -15,5 +15,5 @@ Look at example code, try to understand it, and try to get some code working.  F
 3)	In this case, I attempted to set up a nats connection, publish an event, and subscribe to the event.
 4)	I was not able to connect to nats (time out exception was thrown)
 
-Code in Visual Studio Project taken from:
+The code in Visual Studio Project taken from:
 https://nats.io/blog/nats-in-dotnet/
